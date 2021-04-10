@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\sehir_Rehberi.API\\sehir_Rehberi.API.csproj": {}
+    "C:\\Users\\PC\\OneDrive - Çukurova Üniversitesi\\Belgeler\\Github\\api-backend\\sehir_Rehberi.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\sehir_Rehberi.API\\sehir_Rehberi.API.csproj": {
+    "C:\\Users\\PC\\OneDrive - Çukurova Üniversitesi\\Belgeler\\Github\\api-backend\\sehir_Rehberi.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\sehir_Rehberi.API\\sehir_Rehberi.API.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\OneDrive - Çukurova Üniversitesi\\Belgeler\\Github\\api-backend\\sehir_Rehberi.API.csproj",
         "projectName": "sehir_Rehberi.API",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\sehir_Rehberi.API\\sehir_Rehberi.API.csproj",
+        "projectPath": "C:\\Users\\PC\\OneDrive - Çukurova Üniversitesi\\Belgeler\\Github\\api-backend\\sehir_Rehberi.API.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\sehir_Rehberi.API\\obj\\",
+        "outputPath": "C:\\Users\\PC\\OneDrive - Çukurova Üniversitesi\\Belgeler\\Github\\api-backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

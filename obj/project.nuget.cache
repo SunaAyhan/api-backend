@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gHJnSCpEUCjJIZ+cu492mBMnRCOuOOK6GKtjHMkHmt7EeGp5a/8lMtRx/XewWzCR/2U9pJ1Yi/Ikt75KcEFdmQ==",
+  "dgSpecHash": "nB+RfaHm1AJGvTcSO6vEi+DAgGKL+JA2pZjbVaEeaQoG0QCIisYrubA/BsxnzvuQfYXljyt8b05nnRXd3XABDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\sehir_Rehberi.API\\sehir_Rehberi.API.csproj",
+  "projectFilePath": "C:\\Users\\PC\\OneDrive - Çukurova Üniversitesi\\Belgeler\\Github\\api-backend\\sehir_Rehberi.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
